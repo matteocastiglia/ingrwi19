@@ -16,3 +16,7 @@ section {
 p {
     font-family: 'Open Sans', sans-serif;
 }
+ul {
+    display: flex;
+    
+}
